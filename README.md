@@ -3,6 +3,7 @@
 ## Contributors
 - **Đặng Thành Thái** - 21DH114117
 - **Đoàn Thị Bạch Trúc** - 21DH114165
+- **Nguyễn Tuấn Linh** - 21DH121422
 
 ## Description
 The Fast Food Delivery App is a mobile application designed to simplify the process of ordering and delivering fast food. Developed using Flutter and Dart, this app provides users with a seamless and intuitive interface for managing their food orders. It integrates with a custom RESTful API, which handles user data, menu listings, and order processing efficiently.
@@ -29,7 +30,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any inquiries or further information, please contact us at:
 
--- Đặng Thành Thái: 21dh114117@st.huflit.edu.vn or dangthanhthai1606@gmail.com
+--**Đặng Thành Thái**: 21dh114117@st.huflit.edu.vn or dangthanhthai1606@gmail.com
 
--- Đoàn Thị Bạch Trúc: 21dh114165@st.huflit.edu.vn
+--**Đoàn Thị Bạch Trúc**: 21dh114165@st.huflit.edu.vn
 
