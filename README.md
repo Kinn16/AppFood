@@ -23,6 +23,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
   ```bash
    git clone https://github.com/Kinn16/AppFood.git
+
 2. Navigate to the project directory:
   ```bash
   cd AppFood
