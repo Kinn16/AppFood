@@ -30,7 +30,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any inquiries or further information, please contact us at:
 
---**Đặng Thành Thái**: 21dh114117@st.huflit.edu.vn or dangthanhthai1606@gmail.com
+- **Đặng Thành Thái** : 21dh114117@st.huflit.edu.vn or dangthanhthai1606@gmail.com
 
---**Đoàn Thị Bạch Trúc**: 21dh114165@st.huflit.edu.vn
 
